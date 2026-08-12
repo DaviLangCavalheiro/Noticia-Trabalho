@@ -74,9 +74,8 @@ header {
 }
 
 .imagem-noticia {
-    max-width: 100%;
+    max-width: 250px;
     height: auto;
-    border-radius: 6px;
 }
 
 .legenda {
@@ -85,14 +84,9 @@ header {
     margin-top: 0.5rem;
 }
 
-.conteudo h2 {
-    font-size: 1.3rem;
-    margin: 1.2rem 0 0.5rem 0;
-    color: #2c3e50;
-}
-
 .conteudo p {
     margin-bottom: 1rem;
+    text-align: justify;
 }
 
 .interacao {

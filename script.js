@@ -1,4 +1,3 @@
-
 let curtidas = 0;
 
 const botaoCurtir = document.getElementById('btnCurtir');
